@@ -19,6 +19,7 @@
 ## 📫 How to Reach Me
 - Email: yusufabdulqudus02@gmail.com
 - WhatsApp: 09045892076
+- X: @alqudusy22
 
 ## 😄 Pronouns
 - Him
