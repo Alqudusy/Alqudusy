@@ -9,7 +9,7 @@
 
 ## 🌱 Current Learning Path
 - Currently learning JavaScript
-- Soon moving to React, Python, and Django
+- Soon moving to React, Python, PHP, and Django and laravel
 - Exploring anything related to full-stack development
 
 ## 💞️ Collaboration
@@ -23,9 +23,11 @@
 
 ## 😄 Pronouns
 - Him
+- His
 
 ## ⚡ Fun Fact
 - I'm always excited to code something new and innovative, and I love turning ideas into reality through tech.
+- Always behave like a seniour backend developer even though those backend project still living in my head waiting for me to code them out
 
 ## Future Goals
 - I aim to establish a startup named **TechifyDev**, focusing on cutting-edge web solutions and innovative tech projects.
