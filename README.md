@@ -1,38 +1,45 @@
-# 👋 Hi, I’m @Alqudusy
 
-## 👀 Interests
-- Web development
-- Open-source projects
-- SaaS (Software as a Service)
-- Job opportunities
-- Anything related to tech and innovation
+# 👋 Hi, I’m @Alqudusy  
 
-## 🌱 Current Learning Path
-- Currently learning JavaScript
-- Soon moving to React, Python, PHP, and Django and laravel
-- Exploring anything related to full-stack development
+## 👀 Interests  
+- Web Development (Frontend and Backend)  
+- Open-source Projects  
+- SaaS (Software as a Service)  
+- Freelancing Opportunities  
+- Building Innovative Tech Solutions  
 
-## 💞️ Collaboration
-- Interested in collaborating on any web development projects
-- Open to contributing to open-source projects and SaaS applications
+## 🌱 Current Learning Path  
+- **Proficient in ReactJS, TypeScript (TSX), and Firebase**  
+- Transitioned from Vanilla JavaScript to **TypeScript with JSX (TSX)**  
+- Currently exploring **Firestore** for scalable data solutions  
+- Planning to dive deeper into **Django** and **Laravel** for backend development  
 
-## 📫 How to Reach Me
-- Email: yusufabdulqudus02@gmail.com
-- WhatsApp: 09045892076
-- X: @alqudusy22
+## 💼 Portfolio  
+- **Movie Search App**: Built with React and OMDB API  
+- **Weather App**: Displays weather data using geolocation  
+- **Nylon App**: Responsive eCommerce web app for nylon bags  
 
-## 😄 Pronouns
-- Him
-- His
+## 💞️ Collaboration  
+- Open to collaborating on **web development**, **open-source projects**, and **SaaS applications**  
+- Passionate about **frontend development** and modern **backend integrations**  
 
-## ⚡ Fun Fact
-- I'm always excited to code something new and innovative, and I love turning ideas into reality through tech.
-- Always behave like a seniour backend developer even though those backend project still living in my head waiting for me to code them out
+## 📫 How to Reach Me  
+- **Email**: yusufabdulqudus02@gmail.com  
+- **WhatsApp**: 09045892076  
+- **X (Twitter)**: @alqudusy22  
 
-## Future Goals
-- I aim to establish a startup named **TechifyDev**, focusing on cutting-edge web solutions and innovative tech projects.
+## 😄 Pronouns  
+- He/Him  
+
+## ⚡ Fun Fact  
+- My backend projects still live rent-free in my head, waiting for me to unleash them with Django and Laravel!  
+- I love creating scalable, interactive user interfaces with TypeScript and React.  
+
+## 🚀 Future Goals  
+- Establish a startup named **TechifyDev** to build cutting-edge web solutions and meaningful tech innovations.  
+- Advance as a **senior full-stack developer**, mastering the **React-Django-Laravel** tech stack.  
 
 <!---
 Alqudusy/Alqudusy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
+--->  
