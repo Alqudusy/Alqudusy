@@ -44,6 +44,4 @@
   <img src="https://github-readme-stats.vercel.app/api?username=alqudusy&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alqudusy" alt="GitHub Streak" />
-</p>
+![Alqudusy's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Alqudusy&theme=dracula&hide_border=true)
