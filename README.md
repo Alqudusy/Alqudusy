@@ -28,11 +28,9 @@
   </a>
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center">
+
   ![Alqudusy's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alqudusy&theme=dracula&show_icons=true&hide_border=true&layout=compact)
   <!-- Add more languages and tools icons as needed -->
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alqudusy&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
