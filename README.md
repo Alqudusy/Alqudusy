@@ -30,9 +30,7 @@
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40" />
-  </a>
+  ![Alqudusy's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alqudusy&theme=dracula&show_icons=true&hide_border=true&layout=compact)
   <!-- Add more languages and tools icons as needed -->
 </p>
 
